@@ -1,0 +1,7 @@
+node_modules
+service/**/!(main).js
+service/**/*.js.map
+.vscode/
+
+# Key files
+*secretKey*
