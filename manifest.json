@@ -1,0 +1,17 @@
+{
+  "name": "mqtt-react",
+  "vendor": "acupula",
+  "version": "0.1.0",
+  "title": "MQTT React",
+  "description": "",
+  "mustUpdateAt": "2019-09-11",
+  "categories": [],
+  "registries": [
+    "smartcheckout"
+  ],
+  "settingsSchema": {},
+  "dependencies": {},
+  "builders": {
+    "node": "3.x"
+  }
+}
